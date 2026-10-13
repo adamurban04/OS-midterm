@@ -1,5 +1,7 @@
 # CS4023 Midterm Preparation
 
+![OS Midterm Preparation Presentation Intro Page](<img width="901" height="510" alt="Screenshot 2026-10-13 at 10 22 51" src="https://github.com/user-attachments/assets/181f5965-395f-46b3-9a55-eb78065e3793" />)
+
 A local React + TypeScript + Vite presentation for second-year University of Limerick students, led by Adam, James & Bart. Includes 23 slides, all 11 sample questions in source order, separate answer and explanation stages, 23 explanation pages, conceptual diagrams, week coverage, preparation advice, and exam technique.
 
 ## Run
